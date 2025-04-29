@@ -1,0 +1,17 @@
+.footer__copyright {
+    width: 20%;
+    padding-left: 0;
+    text-align: end;
+}
+
+.footer__copyright-text {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+@media screen and (max-width: 768px) {
+    .footer__copyright {
+        width: auto;
+        margin-top: 20px;
+    }
+}

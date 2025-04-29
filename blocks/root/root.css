@@ -1,0 +1,17 @@
+.root {
+    background-color: #2A2C2F;
+    color: #fff;
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+    
+}
+
+.flex-row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}

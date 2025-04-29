@@ -1,0 +1,48 @@
+.places__place__paragraph {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.places__place__paragraph-text {
+    font-weight: normal;
+}
+
+@media screen and (min-width: 320px) {
+    .places__place__paragraph {
+        width: 258px;
+    }
+
+    .places__place__paragraph-text {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .places__place__paragraph {
+        width: 352px;
+    }
+    
+    .places__place__paragraph-text {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .places__place__paragraph {
+        width: 456px;
+    }
+
+    .places__place__paragraph-text {
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .places__place__paragraph {
+        width: 484px;
+    }
+
+    .places__place__paragraph-text {
+        font-size: 18px;
+    }
+}

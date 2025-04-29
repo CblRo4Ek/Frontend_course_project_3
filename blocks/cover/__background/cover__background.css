@@ -1,0 +1,9 @@
+.cover__background {
+    width: 100%;
+    background: #2A2C2F;
+    opacity: 0.7;
+}
+
+.cover__background img {
+    width: 100%;
+}
