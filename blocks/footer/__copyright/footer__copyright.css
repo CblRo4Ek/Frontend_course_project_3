@@ -13,5 +13,6 @@
     .footer__copyright {
         width: auto;
         margin-top: 20px;
+        text-align: start;
     }
 }
